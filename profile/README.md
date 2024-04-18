@@ -1,6 +1,17 @@
 # Welcome to Xooom Community 👋
 
-- ### Follow product development in our [Roadmap](https://github.com/orgs/xooom-dev/projects/1/views/1)
-- ### Follow product development of our [Milestones](https://github.com/orgs/xooom-dev/projects/1/views/6)
-- ### Find and create bugs and ideas in [Issues](https://github.com/xooom-dev/roadmap/issues)
-- ### Get help and participate in [Discussions](https://github.com/orgs/xooom-dev/discussions)
+## Discussions
+
+Join our community and report bugs, ask questions or suggest ideas.
+
+- ### [Bugs](https://github.com/orgs/xooom-community/discussions/categories/bugs)
+- ### [Questions](https://github.com/orgs/xooom-community/discussions/categories/questions)
+- ### [Ideas](https://github.com/orgs/xooom-community/discussions/categories/ideas)
+
+## Development
+
+Get an overview of what we are working on right now.
+
+- ### [Roadmap](https://github.com/orgs/xooom-dev/projects/1/views/1)
+- ### [Milestones](https://github.com/orgs/xooom-dev/projects/1/views/6)
+- ### [Issues](https://github.com/xooom-dev/roadmap/issues)
