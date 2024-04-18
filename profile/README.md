@@ -1,4 +1,4 @@
-# Welcome to Xooom Help & Community 👋
+# Welcome to Xooom Community 👋
 
 - ### Follow product development in our [Roadmap](https://github.com/orgs/xooom-dev/projects/1/views/1)
 - ### Follow product development of our [Milestones](https://github.com/orgs/xooom-dev/projects/1/views/6)
