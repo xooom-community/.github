@@ -14,9 +14,9 @@ Report bugs, ask questions and suggest ideas.
 ### Development
 Get an overview of what we are working on.
 
-- [Roadmap](https://github.com/orgs/xooom-dev/projects/1/views/1)
-- [Milestones](https://github.com/orgs/xooom-dev/projects/1/views/6)
-- [Issues](https://github.com/xooom-dev/roadmap/issues)
+- [Roadmap](https://github.com/orgs/xooom-community/projects/1/views/1)
+- [Milestones](https://github.com/orgs/xooom-community/projects/1/views/6)
+- [Issues](https://github.com/xooom-community/product-features/issues)
 
 ---
 
