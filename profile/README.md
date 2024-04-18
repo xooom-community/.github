@@ -20,7 +20,7 @@ Get an overview of what we are working on.
 
 ### 🧑‍💻 Join us
 
-We are always looking for new talents, check out our [Careers](https://xooom.dk/jobs)
+We are always looking for new talents, check out [Careers](https://xooom.dk/jobs)
 
 ---
 
