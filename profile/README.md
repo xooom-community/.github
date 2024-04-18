@@ -24,7 +24,7 @@ We are always looking for new talents, check out [Careers](https://xooom.dk/jobs
 
 ---
 
-### ❤️ Product
+### ❤️ Our product
 You can find more information on [Xooom](https://xooom.dk)
 
 ![image](https://github.com/xooom-community/.github/assets/11291103/1043c6b9-b20c-45a5-a241-c1d53df35b21)
