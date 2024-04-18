@@ -1,4 +1,4 @@
-# Welcome to Xooom Community 👋
+# Welcome to Xooom 👋
 
 ### 💬 Discussions
 Report bugs, ask questions and suggest ideas.
