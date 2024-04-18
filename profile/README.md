@@ -5,9 +5,9 @@
 ### Discussions
 Join our community discussions by reporting bugs, asking questions and suggesting ideas.
 
-- [Bugs](https://github.com/orgs/xooom-community/discussions/categories/bugs)
 - [Questions](https://github.com/orgs/xooom-community/discussions/categories/questions)
 - [Ideas](https://github.com/orgs/xooom-community/discussions/categories/ideas)
+- [Bugs](https://github.com/orgs/xooom-community/discussions/categories/bugs)
 
 ---
 
