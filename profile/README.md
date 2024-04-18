@@ -1,26 +1,30 @@
 # Welcome to Xooom Community 👋
 
----
-
-### Discussions
+### 💬 Discussions
 Report bugs, ask questions and suggest ideas.
 
-🐛 [Bugs](https://github.com/orgs/xooom-community/discussions/categories/bugs)
-💡 [Ideas](https://github.com/orgs/xooom-community/discussions/categories/ideas)
-❓ [Questions](https://github.com/orgs/xooom-community/discussions/categories/questions)
+- 🐛 [Bugs](https://github.com/orgs/xooom-community/discussions/categories/bugs)
+- 💡 [Ideas](https://github.com/orgs/xooom-community/discussions/categories/ideas)
+- ❓ [Questions](https://github.com/orgs/xooom-community/discussions/categories/questions)
 
 ---
 
-### Development
+### 📃 Roadmap
 Get an overview of what we are working on.
 
-- [Roadmap](https://github.com/orgs/xooom-community/projects/1/views/1)
-- [Milestones](https://github.com/orgs/xooom-community/projects/1/views/6)
-- [Issues](https://github.com/xooom-community/product-features/issues)
+- 📋 [Board](https://github.com/orgs/xooom-community/projects/1/views/1)
+- 🪨 [Milestones](https://github.com/orgs/xooom-community/projects/1/views/6)
+- 🚩 [Issues](https://github.com/xooom-community/product-features/issues)
 
 ---
 
-### Product
-You can find more information on [xooom.dk](https://xooom.dk)
+### 🧑‍💻 Join us
+
+We are always looking for new talents, check out our [Careers](https://xooom.dk/jobs)
+
+---
+
+### ❤️ Product
+You can find more information on [Xooom](https://xooom.dk)
 
 ![image](https://github.com/xooom-community/.github/assets/11291103/1043c6b9-b20c-45a5-a241-c1d53df35b21)
