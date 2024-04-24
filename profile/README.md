@@ -11,8 +11,8 @@ Report bugs, ask questions or suggest ideas
 Check out how our projects are prioritized
 
 - 🗓️ [Events](https://github.com/orgs/xooom-community/projects/3/views/1) by Christina Zacher
-- ❤️ [Volunteering](https://github.com/orgs/xooom-community/projects/2) by Martin Qwist
 - ✅ [Booking](https://github.com/orgs/xooom-community/projects/4/views/1) by Ole Mortensen
+- ❤️ [Volunteering](https://github.com/orgs/xooom-community/projects/2) by Martin Qwist
 
 ---
 
