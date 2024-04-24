@@ -10,9 +10,9 @@ Report bugs, ask questions or suggest ideas
 ### Projects
 Check out how our projects are prioritized
 
-- 🗓️ [Events](https://github.com/orgs/xooom-community/projects/3/views/1): Managed by Mikkel Sommer & Christina Zacher
-- ❤️ [Volunteering](https://github.com/orgs/xooom-community/projects/2): Managed by Martin Qwist & Christina Zacher
-- ✅ [Booking](https://github.com/orgs/xooom-community/projects/4/views/1): Managed by Ole Mortensen & Christina Zacher
+- 🗓️ [Events](https://github.com/orgs/xooom-community/projects/3/views/1) by Christina Zacher
+- ❤️ [Volunteering](https://github.com/orgs/xooom-community/projects/2) by Martin Qwist
+- ✅ [Booking](https://github.com/orgs/xooom-community/projects/4/views/1) by Ole Mortensen
 
 ---
 
