@@ -17,9 +17,9 @@ Get an overview of what we are working on
 ### Projects
 Check out what's prioritized in our projects
 
-- 🗓️ [Events](https://github.com/orgs/xooom-community/projects/3/views/1)
-- ❤️ [Volunteering](https://github.com/orgs/xooom-community/projects/2)
-- ✅ [Booking](https://github.com/orgs/xooom-community/projects/4/views/1)
+🗓️ [Events](https://github.com/orgs/xooom-community/projects/3/views/1)
+❤️ [Volunteering](https://github.com/orgs/xooom-community/projects/2)
+✅ [Booking](https://github.com/orgs/xooom-community/projects/4/views/1)
 
 ---
 
