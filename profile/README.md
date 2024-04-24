@@ -7,19 +7,19 @@ Report bugs, ask questions or suggest ideas
 
 ---
 
-### Roadmap
-Get an overview of what we are working on
-
-📋 [Follow our roadmap](https://github.com/orgs/xooom-community/projects/1/views/1)
-
----
-
 ### Projects
 Check out what's prioritized in our projects
 
 🗓️ [Events](https://github.com/orgs/xooom-community/projects/3/views/1)
 ❤️ [Volunteering](https://github.com/orgs/xooom-community/projects/2)
 ✅ [Booking](https://github.com/orgs/xooom-community/projects/4/views/1)
+
+---
+
+### Roadmap
+Get an overview of what we are working on
+
+📋 [Follow our roadmap](https://github.com/orgs/xooom-community/projects/1/views/1)
 
 ---
 
