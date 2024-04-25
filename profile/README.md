@@ -9,7 +9,7 @@ Whether you're encountering bugs, have questions, or want to share ideas, we're 
 
 💬 [Join the Discussions](https://github.com/orgs/xooom-community/discussions)
 
-All you need to do is to [sign up for Github](https://github.com/signup)
+All you need to do to participate is to [sign up](https://github.com/signup) on Github
 
 ---
 
