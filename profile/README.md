@@ -13,7 +13,7 @@ All you need to do to participate is to [sign up](https://github.com/signup) on 
 
 ---
 
-### Explore Our Projects
+### Our Roadmap
 Discover what we're working on and see how we prioritize our projects:
 
 - 🗓️ [Events](https://github.com/orgs/xooom-community/projects/3/views/1) led by Christina Zacher
@@ -22,10 +22,10 @@ Discover what we're working on and see how we prioritize our projects:
 
 ---
 
-### Our Roadmap
-Gain insight into our current development and directions:
+### Current Development
+Gain insight into our current development:
 
-📋 [View Our Roadmap](https://github.com/orgs/xooom-community/projects/1/views/1)
+📋 [View Our Development](https://github.com/orgs/xooom-community/projects/1/views/1)
 
 ---
 
