@@ -13,23 +13,6 @@ All you need to do to participate is to [sign up](https://github.com/signup) on 
 
 ---
 
-### Current Development
-Gain insight into our current development:
-
-📋 [View Our Development](https://github.com/orgs/xooom-community/projects/1/views/1)
-
----
-
-### Our Roadmap
-Discover what we're working on and see how we prioritize our projects:
-
-- 🗓️ [Events](https://github.com/orgs/xooom-community/projects/3/views/1) led by Christina Zacher
-- ✅ [Booking](https://github.com/orgs/xooom-community/projects/4/views/1) managed by Ole Mortensen
-- ❤️ [Volunteering](https://github.com/orgs/xooom-community/projects/2) coordinated by Martin Qwist
-- 🔒 [Infrastructure](https://github.com/orgs/xooom-community/projects/6) securely maintained by our software team
-
----
-
 ### Join Our Team
 Interested in making a difference? Explore opportunities to join our talented team:
 
